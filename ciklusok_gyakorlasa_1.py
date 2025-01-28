@@ -3,7 +3,7 @@ from colorama import Fore
 import os
 
 os.system('cls')
-"""def vel_szam():
+def vel_szam():
     i = 0
     szam = 0
     szamok = []
@@ -14,9 +14,9 @@ os.system('cls')
     return i
 
 index = vel_szam()
-print(f"A {Fore.GREEN}{index}.{Fore.RESET} random szám lett 13.")"""
+print(f"A {Fore.GREEN}{index}.{Fore.RESET} random szám lett 13.")
 
-"""def lista():
+def lista():
     szamok = []
     i = 0
     while i < 20:
@@ -26,7 +26,7 @@ print(f"A {Fore.GREEN}{index}.{Fore.RESET} random szám lett 13.")"""
             i += 1
     return szamok
 
-lista = lista()"""
+lista = lista()
 
 def paros_osszegzes():
     db = 0
