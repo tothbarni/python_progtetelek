@@ -71,6 +71,6 @@ def lin_keres(lista):
     if (i < n):
         return i+1
     else:
-        return -1
-   
-print(f"Van e benne 15: {lin_keres(lista)}.helyen")
+        return "nincs"
+
+print(f"Van e benne 15: {lin_keres(lista)}.")
